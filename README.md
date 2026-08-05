@@ -84,44 +84,36 @@ The raw dataset underwent several cleaning and transformation steps in the ETL p
 * Parsed and converted date columns from raw string formats into standard `DATETIME` objects.
 
 ## Project Structure
-logistics_etl_project
-├── .env
-├── .git
-├── .gitignore
-├── .pytest_cache
-├── .vscode
-├── LICENSE
-├── README.md
-├── config
-│   ├── __pycache__
+
+```text
+logistics_etl_project/
+├── config/
 │   └── config.py
-├── data
-├── docker-compose.yml
-├── example.env
-├── logs
-├── notebooks
+├── data/
+├── logs/
+├── notebooks/
 │   └── data_exploration.ipynb
-├── requirements.txt
-├── scripts
-├── src
-│   ├── __pycache__
-│   ├── ingestion
-│   │   ├── __pycache__
+├── scripts/
+├── src/
+│   ├── ingestion/
 │   │   ├── bootstrap.py
 │   │   ├── kaggle_boostraper.py
 │   │   └── kaggle_extractor.py
-│   ├── pipeline.py
-│   ├── pipelines
-│   │   ├── __pycache__
+│   ├── pipelines/
 │   │   ├── db_loader.py
 │   │   ├── time_shifter.py
 │   │   └── transform_cleaner.py
-│   └── utils
-│       ├── __pycache__
-│       ├── logger_config.py
-│       ├── responses.py
-│       └── schemas.py
-└── tests
+│   ├── utils/
+│   │   ├── logger_config.py
+│   │   ├── responses.py
+│   │   └── schemas.py
+│   └── pipeline.py
+├── tests/
+├── docker-compose.yml
+├── example.env
+├── requirements.txt
+├── LICENSE
+└── README.md
 
 
 ## 💡 Key Business Insights & Recommendations
