@@ -152,12 +152,12 @@ logistics_etl_project/
 3. **Ensure Price Covers All Costs:**
    * Implement a pricing rule to make sure the selling price always covers the **Product Cost + Shipping Cost + Minimum Profit Margin**.
 
-## Dashboard screenshots
+## 📊 Dashboard Screenshots
 
 ## 📊 Dashboard Screenshots
 
-![Dashboard Overview 1](assets/Screenshot%202026-07-24%20043631.png)
+![Dashboard Sales & Operations overview](assets/Screenshot 2026-07-24 043631.png)
 
-![Dashboard Overview 2](assets/Screenshot%202026-07-24%20043642.png)
+![Dashboard Shipping & logistics](assets/Screenshot 2026-07-24 043642.png)
 
-![Dashboard Overview 3](assets/Screenshot%202026-07-24%20043654.png)
+![Dashboard Sales overview](assets/Screenshot 2026-07-24 043654.png)
