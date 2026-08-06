@@ -87,6 +87,7 @@ The raw dataset underwent several cleaning and transformation steps in the ETL p
 
 ```text
 logistics_etl_project/
+├── assets/
 ├── config/
 │   └── config.py
 ├── data/
@@ -94,6 +95,7 @@ logistics_etl_project/
 ├── notebooks/
 │   └── data_exploration.ipynb
 ├── scripts/
+│   └── create_star_schema.sql
 ├── src/
 │   ├── ingestion/
 │   │   ├── bootstrap.py
