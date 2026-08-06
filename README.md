@@ -154,6 +154,10 @@ logistics_etl_project/
 
 ## Dashboard screenshots
 
-![Architecture Diagram](assets/Screenshot 2026-07-24 043631.png)
-![Architecture Diagram](assets/Screenshot 2026-07-24 043642.png)
-![Architecture Diagram](assets/Screenshot 2026-07-24 043654.pn)
+## 📊 Dashboard Screenshots
+
+![Dashboard Overview 1](assets/Screenshot%202026-07-24%20043631.png)
+
+![Dashboard Overview 2](assets/Screenshot%202026-07-24%20043642.png)
+
+![Dashboard Overview 3](assets/Screenshot%202026-07-24%20043654.png)
