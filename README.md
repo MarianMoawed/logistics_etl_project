@@ -156,6 +156,6 @@ logistics_etl_project/
 
 ![Dashboard Sales & Operations overview](assets/sales_and_operations_overview.png/.)
 
-![Dashboard Shipping & Logistics](assets/shipping_and_logistics.png/.)
+![Dashboard Shipping & Logistics](assets/sales_overview.png)
 
 ![Dashboard Sales overview](assets/sales_overview.png/.)
