@@ -154,10 +154,8 @@ logistics_etl_project/
 
 ## 📊 Dashboard Screenshots
 
-## 📊 Dashboard Screenshots
+![Dashboard Sales & Operations overview](<assets/Screenshot 2026-07-24 043631.png>)
 
-![Dashboard Sales & Operations overview](assets/Screenshot 2026-07-24 043631.png)
+![Dashboard Shipping & logistics](<assets/Screenshot 2026-07-24 043642.png>)
 
-![Dashboard Shipping & logistics](assets/Screenshot 2026-07-24 043642.png)
-
-![Dashboard Sales overview](assets/Screenshot 2026-07-24 043654.png)
+![Dashboard Sales overview](<assets/Screenshot 2026-07-24 043654.png>)
