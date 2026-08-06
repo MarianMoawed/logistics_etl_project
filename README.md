@@ -116,7 +116,7 @@ logistics_etl_project/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
-
+```
 
 ## 💡 Key Business Insights & Recommendations
 
@@ -154,6 +154,8 @@ logistics_etl_project/
 
 ## 📊 Dashboard Screenshots
 
-<img width="977" height="540" alt="sales_overview" src="https://github.com/user-attachments/assets/9fb1f627-66fc-450f-84ff-c98e55719652" />
-<img width="983" height="548" alt="shipping logistics" src="https://github.com/user-attachments/assets/64e34ff8-b036-44ce-96f4-64a9b1b16fe1" />
-<img width="981" height="527" alt="sales operations_overview" src="https://github.com/user-attachments/assets/715d19f7-a75e-47a8-b4fe-d13f9a53304f" />
+![Dashboard Sales & Operations overview](assets/sales_and_operations_overview.png)
+
+![Dashboard Shipping & Logistics](assets/shipping_and_logistics.png)
+
+![Dashboard Sales overview](assets/sales_overview.png)
