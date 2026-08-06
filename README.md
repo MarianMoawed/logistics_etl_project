@@ -154,8 +154,8 @@ logistics_etl_project/
 
 ## 📊 Dashboard Screenshots
 
-<img src="assets/sales_and_operations_overview.png" alt="Sales & Operations overview" width="100%">
-<br><br>
-<img src="assets/shipping_and_logistics.png" alt="Shipping & Logistics" width="100%">
-<br><br>
-<img src="assets/sales_overview.png" alt="Sales overview" width="100%">
+![Dashboard Sales & Operations overview](assets/sales_and_operations_overview.png)
+
+![Dashboard Shipping & Logistics](assets/shipping_and_logistics.png)
+
+![Dashboard Sales overview](assets/sales_overview.png)
